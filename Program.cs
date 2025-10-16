@@ -1,67 +1,64 @@
-﻿/*using System;
+﻿using System;
 
-class Book
+class Vehicle
 {
-    public string title;
-    public string author;
-    public int pages;
+    public string Brand;
+    public Vehicle(string brand) { Brand = brand;}
+  
 
-    public static void Main()
+    public virtual void ShowInfo()
     {
-        Book firstBook = new Book();
-        firstBook.title = "Harry Potter";
-        firstBook.author = "J.K Rowling";
-        firstBook.pages = 432;
+        Console.WriteLine($"Brand: {Brand} is attending.");
+    }
+    public virtual void Start()
+    {
+        Console.WriteLine(("Vehicles are starting..."));
+    }
+}
 
-        Book secondBook = new Book();
-        secondBook.title = "Lord of The Rings";
-        secondBook.author = "J.J.R Tolkien";
-        secondBook.pages = 604;
+class Car : Vehicle
+{
+    public Car(string brand) : base(brand) { }
+
+    public override void Start()
+    {
+        Console.WriteLine($"The {Brand} is starting and revving up his sportscar");
+    }
+}
+
+class Truck : Vehicle
+{
+    public Truck(string brand) : base(brand) { }
+
+    public override void Start()
+    {
+        Console.WriteLine($"Truck {Brand} is starting, this is a big one");
+    }
+}
+
+class Motorcycle : Vehicle
+{
+    public Motorcycle(string brand) : base(brand) {  }
         
-        Console.WriteLine($"Title: {firstBook.title}, Author: {firstBook.author}, Pages: {firstBook.pages}");
-        Console.WriteLine($"Title: {secondBook.title}, Author: {secondBook.author}, Pages: {secondBook.pages}");
-    }
-}*/
-
-using System;
-
-
-//  ---------- TEST AV CONOSTRUCTOR, EJ KLAR, ORKADE INTE OCH VAR INTE EN DEL
-// ------------ AV UPPGIFTEN!
-class Student
-{
-    public string name;
-    public int age;
-    public string favoriteSubject;
-
-    public Book(string title, int age, string favoriteSubject)
+    public override void Start()
     {
-        this.title = title;
-        this.age = age;
-        this.favoriteSubject = favoriteSubject;
-
+        Console.WriteLine($"The {Brand} is starting to burn rubber!");
     }
 }
 
-/*public static void Main()
+class Program
 {
-    Student firstStudent = new Student();
-    Student secondStudent = new Student();
-    Student thirdtudent = new Student();
+    static void Main()
+    {
+        List<Vehicle> vehicles = new List<Vehicle>();
+        vehicles.Add(new Car("Ford"));
+        vehicles.Add(new Motorcycle("Kawasaki"));
+        vehicles.Add(new Car("Volvo"));
+        vehicles.Add(new Truck("Toyota"));
 
-
-    firstStudent.name = "Hanna";
-    firstStudent.age = 22;
-    firstStudent.favoriteSubject = "Art";
-
-    secondStudent.name = "William";
-    secondStudent.age = 34;
-    secondStudent.favoriteSubject = "Music";
-
-    thirdtudent.name = "Noah";
-    thirdtudent.age = 5;
-    thirdtudent.favoriteSubject = "Games";
-
-    Console.WriteLine($"Name: {firstStudent.name}, age: {firstStudent.age}, Favorite: {firstStudent.favoriteSubject}");
+        foreach (Vehicle a in vehicles)
+        {
+            a.Start();
+        }
+    }
 }
-}*/
