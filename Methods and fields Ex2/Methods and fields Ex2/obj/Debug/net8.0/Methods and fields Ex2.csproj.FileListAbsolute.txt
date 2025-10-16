@@ -1,0 +1,14 @@
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/Methods and fields Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/Methods and fields Ex2.AssemblyInfoInputs.cache
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/Methods and fields Ex2.AssemblyInfo.cs
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/Methods and fields Ex2.csproj.CoreCompileInputs.cache
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/bin/Debug/net8.0/Methods and fields Ex2
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/bin/Debug/net8.0/Methods and fields Ex2.deps.json
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/bin/Debug/net8.0/Methods and fields Ex2.runtimeconfig.json
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/bin/Debug/net8.0/Methods and fields Ex2.dll
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/bin/Debug/net8.0/Methods and fields Ex2.pdb
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/Methods and fields Ex2.dll
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/refint/Methods and fields Ex2.dll
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/Methods and fields Ex2.pdb
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/Methods and fields Ex2.genruntimeconfig.cache
+/Users/texas/RiderProjects/Methods and fields Ex2/Methods and fields Ex2/obj/Debug/net8.0/ref/Methods and fields Ex2.dll
