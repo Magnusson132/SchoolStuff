@@ -1,0 +1,14 @@
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/bin/Debug/net8.0/E6DataTypes
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/bin/Debug/net8.0/E6DataTypes.deps.json
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/bin/Debug/net8.0/E6DataTypes.runtimeconfig.json
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/bin/Debug/net8.0/E6DataTypes.dll
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/bin/Debug/net8.0/E6DataTypes.pdb
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/E6DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/E6DataTypes.AssemblyInfoInputs.cache
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/E6DataTypes.AssemblyInfo.cs
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/E6DataTypes.csproj.CoreCompileInputs.cache
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/E6DataTypes.dll
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/refint/E6DataTypes.dll
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/E6DataTypes.pdb
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/E6DataTypes.genruntimeconfig.cache
+/Users/texas/RiderProjects/E6DataTypes/E6DataTypes/obj/Debug/net8.0/ref/E6DataTypes.dll

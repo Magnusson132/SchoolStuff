@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E6DataTypes", "E6DataTypes\E6DataTypes.csproj", "{AB3165BD-5636-400C-A56A-EBD8F7FD7791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3165BD-5636-400C-A56A-EBD8F7FD7791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3165BD-5636-400C-A56A-EBD8F7FD7791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3165BD-5636-400C-A56A-EBD8F7FD7791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3165BD-5636-400C-A56A-EBD8F7FD7791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
